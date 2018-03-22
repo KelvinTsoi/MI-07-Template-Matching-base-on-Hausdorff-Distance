@@ -1,0 +1,39 @@
+﻿生成启动时间为 2015/6/4 19:05:36。
+     1>项目“D:\C++ for Programmers\Lastest\A02\A02\A02.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\A02.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp- /Yu"StdAfx.h" /Fp"Debug\A02.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt A02Dlg.cpp
+         A02Dlg.cpp
+     1>d:\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\c++ for programmers\lastest\a02\a02\a02dlg.cpp(122): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\c++ for programmers\lastest\a02\a02\a02dlg.cpp(271): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c++ for programmers\lastest\a02\a02\a02dlg.cpp(274): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c++ for programmers\lastest\a02\a02\a02dlg.cpp(275): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c++ for programmers\lastest\a02\a02\a02dlg.cpp(423): warning C4129: “T”: 不可识别的字符转义序列
+     1>d:\c++ for programmers\lastest\a02\a02\a02dlg.cpp(924): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c++ for programmers\lastest\a02\a02\a02dlg.cpp(926): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++ for Programmers\Lastest\A02\Debug\A02.exe" /INCREMENTAL /NOLOGO opencv_ml249d.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_objdetect249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_nonfree249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_videostab249d.lib opencv_objdetect249.lib opencv_ts249.lib opencv_video249.lib opencv_nonfree249.lib opencv_ocl249.lib opencv_photo249.lib opencv_stitching249.lib opencv_superres249.lib opencv_videostab249.lib opencv_calib3d249.lib opencv_contrib249.lib opencv_core249.lib opencv_features2d249.lib opencv_flann249.lib opencv_gpu249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_legacy249.lib opencv_ml249.lib /MANIFEST /ManifestFile:"Debug\A02.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C++ for Programmers\Lastest\A02\Debug\A02.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++ for Programmers\Lastest\A02\Debug\A02.lib" /MACHINE:X86 Debug\A02.res
+         Debug\A02.obj
+         Debug\A02Dlg.obj
+         Debug\CvvImage.obj
+         Debug\HausDorffComputer.obj
+         Debug\RecognizeDlg.obj
+         Debug\stdafx.obj
+         A02.vcxproj -> D:\C++ for Programmers\Lastest\A02\Debug\A02.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"D:\C++ for Programmers\Lastest\A02\Debug\A02.exe.manifest" /manifest Debug\A02.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\A02.unsuccessfulbuild”。
+         正在对“Debug\A02.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\C++ for Programmers\Lastest\A02\A02\A02.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.88
